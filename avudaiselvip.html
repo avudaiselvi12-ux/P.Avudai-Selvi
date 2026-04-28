@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -113,7 +112,7 @@
     <div class="grid lg:grid-cols-5 gap-12 items-center">
       <div class="lg:col-span-3">
         <div class="ri"><span class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/5 border border-white/10 text-indigo-300 text-[10px] font-bold uppercase tracking-[0.2em] mb-6"><iconify-icon icon="lucide:graduation-cap" width="11"></iconify-icon>Department of Mathematics</span></div>
-        <h1 class="ri font-serif text-white text-4xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-[1.08] mb-2">Dr. P. Avudai Selvi</span></h1>
+        <h1 class="ri font-serif text-white text-4xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-[1.08] mb-2">Dr. P. Avudai Selvi</h1>
         <p class="ri text-indigo-200/60 text-base font-light leading-relaxed max-w-lg mb-5 mt-4">Assistant Professor<br>Department of Mathematics<br>V. O. Chidambaram College, Thoothukudi<br>Affiliated to Manonmaniam Sundaranar University, Tamil Nadu</p>
         <div class="ri flex flex-wrap gap-2 mb-8">
           <span class="inline-flex items-center gap-1.5 text-[10px] font-semibold text-amber-300 bg-amber-400/10 border border-amber-400/20 px-3 py-1 rounded-full"><iconify-icon icon="lucide:award" width="11"></iconify-icon>CSIR-NET Qualified</span>
